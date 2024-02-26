@@ -26,7 +26,12 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-![jiaxi's github activity graph](https://raw.githubusercontent.com/jiaxiZHANG/jiaxiZHANG/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
