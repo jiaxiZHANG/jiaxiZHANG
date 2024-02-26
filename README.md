@@ -23,6 +23,10 @@
   
 </div>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+![jiaxi's github activity graph](https://raw.githubusercontent.com/jiaxiZHANG/jiaxiZHANG/output/github-contribution-grid-snake.svg)
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
