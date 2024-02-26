@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- Information about me -->
-<h3 align="center">口口口口口口口口口口口口口口口口口 :desktop_computer:</h3>
+<h3 align="center">下面是个镜子，你最好认清你自己 :desktop_computer:</h3>
 
 <!-- My GIF -->
 <img src="https://th.bing.com/th/id/R.b4ea42d9555565b0c2dd689c86640bf5?rik=NdGQmv6vgqG5QQ&riu=http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20200411%2fb877f9324e0f4d06958f37f139cdcab8.jpeg&ehk=PDwHtBrPHE1ODXJS2PcE%2bQiQM338UxHIliq0qzzmf7k%3d&risl=&pid=ImgRaw&r=0" alt="GIF" width=100% hight="auto">
