@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://s.team/p/gffn-pkcd/NJRJDRRT" target="_blank">A HUMAN</a> 
+<h1 align="center">(っ◔◡◔)っ <a href="https://s.team/p/gffn-pkcd/NJRJDRRT" target="_blank">NOTHING HERE</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- Information about me -->
