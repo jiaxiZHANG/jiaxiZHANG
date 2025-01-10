@@ -6,7 +6,7 @@
 <h3 align="center">个人简历，让霍金站起来 :desktop_computer:</h3>
 
 <!-- My GIF -->
-<img src="https://i0.hdslb.com/bfs/new_dyn/4dd219f1aa7b2ee7f759d39df7606ceb11374220.gif@!web-comment-note.avif" alt="GIF" width=100% hight="auto">
+<img src="https://github.com/jiaxiZHANG/jiaxiZHANG/blob/main/6.gif" alt="GIF" width=100% hight="auto">
 
 
 
